@@ -5,5 +5,5 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/M.A.R.S.LOOP-WEBSITE/', 
+  base: process.env.NODE_ENV === 'production' ? '/M.A.R.S.LOOP-WEBSITE/' : '/', 
 })
