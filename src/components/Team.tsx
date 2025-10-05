@@ -7,9 +7,9 @@ import yassineMaalej from '../assets/yassine maalej.png';
 const Team: React.FC = () => {
   const teamMembers = [
     {
-      name: "Eya Saadaou",
+      name: "Aya Saadaoui",
       role: "Electrical Engineering",
-      skills: "Conception robotique, ROS2",
+      skills: "robotic design, ROS2",
       image: ayaSaadaoui
     },
     {
