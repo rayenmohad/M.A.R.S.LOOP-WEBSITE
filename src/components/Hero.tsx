@@ -11,7 +11,7 @@ const Hero: React.FC = () => {
   return (
     <section id="hero" className="min-h-screen flex items-center justify-center bg-gradient-to-b from-red-900 via-orange-900 to-red-950 text-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-orange-400 to-red-500 bg-clip-text text-transparent">
+        <h1 className="text-5xl md:text-7xl font-bold mb-6 text-white drop-shadow-lg">
           M.A.R.S.Loop
         </h1>
         <h2 className="text-2xl md:text-4xl font-semibold mb-8 text-orange-200">
