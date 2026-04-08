@@ -73,32 +73,12 @@ Design and build an autonomous robotic system capable of:
 
 ---
 
-## 📊 Key Performance Metrics
-
-| Metric | Target |
-|---|---|
-| Waste classification precision | **>90%** |
-| System task accuracy | **>96%** |
-| Continuous operating time | **>24 hours** |
-
----
 
 ## 🌱 Impact
 
 | Sustainability | Autonomy | Versatility | Efficiency |
 |---|---|---|---|
 | Enables circular waste solutions with minimal human impact | Zero dependency on real-time control | Adaptable to multiple waste categories in space | Energy-efficient operation on solar power |
-
----
-
-## 👥 The Team
-
-| Name | Role |
-|---|---|
-| **Aya Taoufiki** | Embedded Engineer |
-| **Mohamed Rayen Bharat** | Systems General Engineer |
-| **MED YASSINE AHAD** | Software Engineer |
-| **Mohamed Taouik Nasir** | Mechanical Engineer |
 
 ---
 
