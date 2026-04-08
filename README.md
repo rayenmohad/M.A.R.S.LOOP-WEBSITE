@@ -2,7 +2,7 @@
 
 > *"Zero Waste Left Behind"* — An autonomous robotic system for recycling biological waste on Mars, transforming waste into life resources for human colonies.
 
-![M.A.R.S.Loop Preview](mars_loop.png)
+![M.A.R.S.Loop Preview](mars _loop.png)
 
 ---
 
